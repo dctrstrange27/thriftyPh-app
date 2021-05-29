@@ -1,0 +1,1 @@
+{"version":3,"sources":["Components/Service/Service.js"],"names":["Service"],"mappings":"qHAAA,uBASeA,UAPd,WACG,OACI,8BACI","file":"static/js/5.31ab3a9d.chunk.js","sourcesContent":["import React from 'react'\n\n function Service() {\n    return (\n        <div>\n            <h1>Hello Service</h1>\n        </div>\n    )\n}\nexport default Service"],"sourceRoot":""}

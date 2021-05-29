@@ -1,0 +1,1 @@
+{"version":3,"sources":["Components/About/About.js"],"names":["About"],"mappings":"uIAQeA,UAPF,WACT,OACI,mCACA","file":"static/js/3.2373c306.chunk.js","sourcesContent":["\nconst About =()=>{\n    return(\n        <>\n        <h3>hello About</h3>\n        </>\n    )\n}\nexport default About"],"sourceRoot":""}
