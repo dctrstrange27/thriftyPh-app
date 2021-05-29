@@ -1,0 +1,1 @@
+{"version":3,"sources":["Components/Service/Service.js"],"names":["Service"],"mappings":"uIAQeA,UAPA,WACd,OACG,mCACA","file":"static/js/6.03d0f38c.chunk.js","sourcesContent":["\nconst Service =()=>{\n return(\n    <>\n    <h3>hello Service</h3>\n    </>\n )\n}\nexport default Service\n"],"sourceRoot":""}

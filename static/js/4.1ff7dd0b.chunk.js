@@ -1,0 +1,2 @@
+(this["webpackJsonpthriftyph-app"]=this["webpackJsonpthriftyph-app"]||[]).push([[4],{53:function(t,e,h){"use strict";h.r(e);var p=h(4);e.default=function(){return Object(p.jsx)(p.Fragment,{children:Object(p.jsx)("h3",{children:"hello About"})})}}}]);
+//# sourceMappingURL=4.1ff7dd0b.chunk.js.map
