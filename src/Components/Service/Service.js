@@ -1,9 +1,10 @@
+import React from 'react'
 
-const Service =()=>{
- return(
-    <>
-    <h3>hello Service</h3>
-    </>
- )
+ function Service() {
+    return (
+        <div>
+            <h1>Hello Service</h1>
+        </div>
+    )
 }
 export default Service

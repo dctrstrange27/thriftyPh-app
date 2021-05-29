@@ -10,6 +10,7 @@ const AppRouters =()=>{
          <Switch>
             {routes.map((x)=> (
                 <Route
+                     key={x.path}
                      path={x.path}
                      exact component={x.component}
                 ></Route>
